@@ -10,7 +10,7 @@
  <para>
   &rhel; (&rhla;) Host OS KVM and/or supported &rhla; guests have
   been tested and qualified by &vendor; to run on &kw-hos;. &vendor; is one of
-  the largest OEMs of &rh; with follow the sun global support coverage.
+  the largest OEMs of &rh; with &quot;follow the sun&quot; global support coverage.
  </para>
  <itemizedlist>
   <listitem>
